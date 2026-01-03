@@ -11,7 +11,7 @@ I am a **business analytics professional** with experience across banking, healt
 ## 📂 Portfolio & Projects
 
 - **Professional Experience** — Overview of my work across banking, healthcare, pharmaceuticals, and consumer goods.  
-- **Project Portfolio** — Selected projects in Python, Tableau, Database, Data Warehouse, and Data Mining.  
+- **Project Portfolio** — Selected projects in Python, Tableau, Database Management, Data Warehouse, and Data Mining.  
 - **Contact & Connect** — Reach me via [LinkedIn](https://www.linkedin.com/in/amruta-gandhe-1b1013207/) or email.
 
 ## 📫 Connect with Me
