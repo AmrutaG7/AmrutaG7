@@ -1,6 +1,6 @@
 # Hi, I'm Amruta Gandhe 👋
 
-I am a **business analytics professional** with experience across **banking, healthcare, pharmaceuticals, and consumer goods**. I leverage **SQL, Python, Tableau, Power BI, Snowflake, Databricks, and cloud analytics** to deliver dashboards, KPIs, and actionable insights that support data-driven business decisions. I combine technical expertise with business acumen to help leadership, product, marketing, and operations teams solve real-world challenges.
+I am a **business analytics professional** with experience across banking, healthcare, pharmaceuticals, and consumer goods. I leverage **SQL, Python, Tableau, Power BI, Snowflake, and Databricks** to deliver dashboards, KPIs, and actionable insights that support data-driven business decisions. I combine technical expertise with business acumen to help leadership, product, marketing, and operations teams solve real-world challenges.
 
 ## 🛠 Skills
 
@@ -10,10 +10,12 @@ I am a **business analytics professional** with experience across **banking, hea
 
 ## 📂 Portfolio & Projects
 
-- **Portfolio Website:** [https://amrutag7.github.io](https://amrutag7.github.io)  
-- **Professional Experience & Projects:** Explore my work in Python, Tableau, Database, Warehouse, and Data Mining  
+- **Professional Experience** — Overview of my work across banking, healthcare, pharmaceuticals, and consumer goods.  
+- **Project Portfolio** — Selected projects in Python, Tableau, Database, Data Warehouse, and Data Mining.  
+- **Contact & Connect** — Reach me via [LinkedIn](https://www.linkedin.com/in/amruta-gandhe-1b1013207/) or email.
 
 ## 📫 Connect with Me
 
-- LinkedIn: [https://www.linkedin.com/in/amruta-gandhe-1b1013207/](https://www.linkedin.com/in/amruta-gandhe-1b1013207/)  
-- GitHub: [https://github.com/AmrutaG7](https://github.com/AmrutaG7)
+- **Portfolio Website:** [https://amrutag7.github.io](https://amrutag7.github.io)  
+- **LinkedIn:** [https://www.linkedin.com/in/amruta-gandhe-1b1013207/](https://www.linkedin.com/in/amruta-gandhe-1b1013207/)  
+- **GitHub:** [https://github.com/AmrutaG7](https://github.com/AmrutaG7)
