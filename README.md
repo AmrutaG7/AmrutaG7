@@ -7,10 +7,9 @@ I work at the intersection of business and technology, translating business need
 ## 🛠 Skills
 
 * **Business & Analytics:** Business Analysis, Customer & Marketing Analytics, Requirements Analysis, KPI Development, Reporting, Data Analysis, Process Analysis
-* **Data & Visualization:** SQL, Python, SAS, Tableau, Power BI, QlikView, Snowflake, Databricks
-* **Cloud & Platforms:** AWS, Snowflake, Databricks
+* **Data & Technology:** SQL, Python, SAS, Snowflake, Tableau, Power BI, QlikView
 * **Delivery & Collaboration:** Requirements Gathering, User Stories, Data Validation, Data Quality, Stakeholder Collaboration, Cross-Functional Delivery
-
+  
 ## 📂 Portfolio & Projects
 
 * **Professional Experience** — Experience across banking, healthcare, pharmaceuticals, and consumer goods spanning analytics, business analysis, data products, reporting, data quality, and cross-functional delivery.
